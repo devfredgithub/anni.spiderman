@@ -1,3 +1,5 @@
+/*font-family: 'Zen Loop', cursive;*/
+
 body
 {
     margin: 0;
@@ -42,19 +44,20 @@ h1
     text-align: center;
     border-radius: 15px;
     text-shadow: 0 0 4px black;
-
-
 }
 
 h2
 {
     color: black;
+    font-weight: bold;
     top:3%;
     font: size 30px;
     background-color: #c8332c;
     border: #1a5e8d 5px solid;
     border-radius: 15px;
     opacity: 0.6 grey;
+    padding: 20px;
+    font-family: 'Zen Loop', cursive;
 }
 
 p
