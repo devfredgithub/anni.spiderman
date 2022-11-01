@@ -4,6 +4,7 @@ body
 {
     margin: 0;
     background-color: #1a5e8d;
+    
 }
 .fond
 {
@@ -16,8 +17,6 @@ body
 .contenu
 {
     position: absolute;
-    margin-left: 10%;
-    margin-right: 10%;
 }
 
 
